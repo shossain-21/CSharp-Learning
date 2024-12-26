@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carrot Cakes", "Carrot Cake
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snacktower", "Snacktower\Snacktower.csproj", "{53040A19-2ABE-498B-9145-30F2785F3671}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamer Hemose", "Gamer Hemose\Gamer Hemose.csproj", "{547838C2-C7F3-473F-93BD-A77B200134EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{53040A19-2ABE-498B-9145-30F2785F3671}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53040A19-2ABE-498B-9145-30F2785F3671}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53040A19-2ABE-498B-9145-30F2785F3671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547838C2-C7F3-473F-93BD-A77B200134EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547838C2-C7F3-473F-93BD-A77B200134EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547838C2-C7F3-473F-93BD-A77B200134EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547838C2-C7F3-473F-93BD-A77B200134EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
