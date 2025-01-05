@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chewbaсca and Number", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worms", "Worms\Worms.csproj", "{B3266B48-1833-49EB-BAEA-8AB959E3A3DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fancy fence", "Fancy fence\Fancy fence.csproj", "{ADE7EED0-CBCA-40CB-9C2A-2F7DE2A9E813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vanya and Lanterns", "Vanya and Lanterns\Vanya and Lanterns.csproj", "{7485C168-DADC-497A-B5FF-F6BA5F3C3375}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{B3266B48-1833-49EB-BAEA-8AB959E3A3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3266B48-1833-49EB-BAEA-8AB959E3A3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3266B48-1833-49EB-BAEA-8AB959E3A3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE7EED0-CBCA-40CB-9C2A-2F7DE2A9E813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE7EED0-CBCA-40CB-9C2A-2F7DE2A9E813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE7EED0-CBCA-40CB-9C2A-2F7DE2A9E813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE7EED0-CBCA-40CB-9C2A-2F7DE2A9E813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7485C168-DADC-497A-B5FF-F6BA5F3C3375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7485C168-DADC-497A-B5FF-F6BA5F3C3375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7485C168-DADC-497A-B5FF-F6BA5F3C3375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7485C168-DADC-497A-B5FF-F6BA5F3C3375}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
