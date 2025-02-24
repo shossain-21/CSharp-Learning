@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data types", "Data types\Data types.csproj", "{32EC9EE0-5A94-40B8-8A52-36F257521E57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structure", "Struct\Structure.csproj", "{D81F0269-CDF6-47D6-AAD0-F1D4A56C13FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerations", "Enumerations\Enumerations.csproj", "{B0F5801E-0AF4-41F1-80AA-881F7F9E267A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{32EC9EE0-5A94-40B8-8A52-36F257521E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32EC9EE0-5A94-40B8-8A52-36F257521E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32EC9EE0-5A94-40B8-8A52-36F257521E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81F0269-CDF6-47D6-AAD0-F1D4A56C13FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81F0269-CDF6-47D6-AAD0-F1D4A56C13FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81F0269-CDF6-47D6-AAD0-F1D4A56C13FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81F0269-CDF6-47D6-AAD0-F1D4A56C13FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F5801E-0AF4-41F1-80AA-881F7F9E267A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F5801E-0AF4-41F1-80AA-881F7F9E267A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F5801E-0AF4-41F1-80AA-881F7F9E267A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F5801E-0AF4-41F1-80AA-881F7F9E267A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
